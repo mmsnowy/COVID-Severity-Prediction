@@ -1,0 +1,10 @@
+{
+  "params": {
+    "n_estimators": 52,
+    "learning_rate": 0.0183,
+    "num_leaves": 96,
+    "colsample_bytree": 0.5107,
+    "max_depth": 16,
+    "verbose": -1
+  }
+}
