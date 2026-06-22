@@ -1,0 +1,3 @@
+Clinical_Type,Year_from_seqName,ORF1b.54,S.452,S.490,S.83,S.157,S.52,E.11,S.183,S.245,ORF1a.690,S.146,S.346,ORF8.8,S.456,ORF1a.1819,M.3,ORF1a.3143,S.356,S.252,S.368,Gender,Age,Ct_ORFlab,Ct_N,Vaccinated,Prior_Infection,Region_Other,Region_SuBei,Region_SuNan,Region_SuZhong,E_Mut_Count,ORF8_Mut_Count,ORF6_Mut_Count,ORF3a_Mut_Count,ORF9b_Mut_Count,ORF7a_Mut_Count,ORF1b_Mut_Count,ORF7b_Mut_Count,S_Mut_Count,N_Mut_Count,ORF1a_Mut_Count,M_Mut_Count,Charge_Change_Mut_Load,Size_Change_Mut_Load,Age_CtN_Interaction
+0,2023,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,32,28.1,29.1,1,0,0,1,0,0,1,0,0,1,4,1,5,0,31,5,10,3,30,33,1.099656357388316
+1,2024,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,92,32,28,0,1,0,0,1,0,1,0,1,2,1,0,4,1,52,6,16,5,38,48,3.2857142857142856
