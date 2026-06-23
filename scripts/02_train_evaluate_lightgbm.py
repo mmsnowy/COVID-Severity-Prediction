@@ -44,7 +44,7 @@ OUTCOME = "Clinical_Type"
 
 CONTINUOUS_VARS = [
     "Age",
-    "Ct_ORFlab",
+    "Ct_ORF1ab",
     "Ct_N",
     "Age_CtN_Interaction",
     "S_Mut_Count",
