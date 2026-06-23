@@ -1,4 +1,4 @@
-""""
+"""
 03_shap_analysis.py
 
 SHAP-based interpretation and stability analysis for the rotating-
@@ -194,13 +194,13 @@ def stability_summary(shap_list, features):
 
     out = pd.DataFrame({
         "Feature": features,
-        "Mean_abs_SHAP": mean_abs,
+        "Mean_round_level_abs_SHAP": mean_abs,
         "SD": sd,
         "Approx_95CI_halfwidth": ci95,
         "CV": cv,
     })
 
-    out = out.sort_values("Mean_abs_SHAP", ascending=False).reset_index(drop=True)
+    out = out.sort_values("Mean_round_level_abs_SHAP", ascending=False).reset_index(drop=True)
     return out
 
 
